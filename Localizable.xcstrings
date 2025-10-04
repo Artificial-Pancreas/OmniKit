@@ -124,12 +124,6 @@
             "value" : " (không hoạt động)"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : " (inactive)"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -259,12 +253,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đã quá thời gian kích hoạt"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Activation time exceeded"
           }
         },
         "zh-Hans" : {
@@ -398,12 +386,6 @@
             "value" : "Tự động tắt"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto-off"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -533,12 +515,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Liều basal được khởi tạo"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Basal initialized"
           }
         },
         "zh-Hans" : {
@@ -672,12 +648,6 @@
             "value" : "Đang bolus"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolusing"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -807,12 +777,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đang thực hiện liều basal tạm thời"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolusing with temp basal"
           }
         },
         "zh-Hans" : {
@@ -946,12 +910,6 @@
             "value" : "Đã hủy kích hoạt"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Deactivated"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1081,12 +1039,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hết insulin"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Empty reservoir"
           }
         },
         "zh-Hans" : {
@@ -1220,12 +1172,6 @@
             "value" : "Nhắc nhở hết hạn"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Expiration reminder"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -1355,12 +1301,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mở rộng chạy liều bolus"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Extended bolus running"
           }
         },
         "zh-Hans" : {
@@ -1494,12 +1434,6 @@
             "value" : "Liều bolus mở rộng đang chạy khi bơm bị tạm dừng"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Extended bolus running while suspended"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -1629,12 +1563,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mở rộng chạy liều bolus với liều nền tạm thời"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Extended bolus running with temp basal"
           }
         },
         "zh-Hans" : {
@@ -1768,12 +1696,6 @@
             "value" : "Đã có lỗi"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Fault event occurred"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -1903,12 +1825,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoàn tất thiết lập lời nhắc"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Finish setup reminder"
           }
         },
         "zh-Hans" : {
@@ -2042,12 +1958,6 @@
             "value" : "Đã được khởi tạo"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Initialized"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2177,12 +2087,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đang gắn Cannula"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Inserting cannula"
           }
         },
         "zh-Hans" : {
@@ -2316,12 +2220,6 @@
             "value" : "Lỗi bên trong pod %1$03d"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Internal pod fault %1$03d"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2451,12 +2349,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Địa chỉ không tồn tại: (%1$@)"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Invalid address: (%1$@)"
           }
         },
         "zh-Hans" : {
@@ -2590,12 +2482,6 @@
             "value" : "CRC không tồn tại"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Invalid CRC"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -2725,12 +2611,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sắp hết insulin"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Low reservoir"
           }
         },
         "zh-Hans" : {
@@ -2864,12 +2744,6 @@
             "value" : "Bộ nhớ được khởi tạo"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Memory initialized"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -2999,12 +2873,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Không có cảnh báo nào"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No alerts"
           }
         },
         "zh-Hans" : {
@@ -3138,12 +3006,6 @@
             "value" : "Không có lỗi"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "No faults"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -3272,12 +3134,6 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Normal"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
             "value" : "Normal"
           }
         },
@@ -3412,12 +3268,6 @@
             "value" : "Không đủ dữ liệu"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Not enough data"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -3547,12 +3397,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Không sử dụng"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Not used"
           }
         },
         "zh-Hans" : {
@@ -3686,12 +3530,6 @@
             "value" : "Phát hiện tắc nghẽn"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Occlusion detected"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3820,12 +3658,6 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "oneNotUsed"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
             "value" : "oneNotUsed"
           }
         },
@@ -3960,12 +3792,6 @@
             "value" : "Ghép đôi hoàn thành"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pairing completed"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -4095,12 +3921,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lỗi cú pháp: %1$@ in (%2$@)"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Parsing Error: %1$@ in (%2$@)"
           }
         },
         "zh-Hans" : {
@@ -4234,12 +4054,6 @@
             "value" : "Pod đã hết hạn"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pod expired"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4369,12 +4183,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lời nhắc Pod tạm dừng"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Pod suspended reminder"
           }
         },
         "zh-Hans" : {
@@ -4508,12 +4316,6 @@
             "value" : "Đang mồi"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Priming"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4643,12 +4445,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Priming hoàn tất"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Priming completed"
           }
         },
         "zh-Hans" : {
@@ -4782,12 +4578,6 @@
             "value" : "Lời nhắc đã được khởi tạo"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reminder initialized"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -4917,12 +4707,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Basal theo lịch trình"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Scheduled basal"
           }
         },
         "zh-Hans" : {
@@ -5056,12 +4840,6 @@
             "value" : "Tắt báo động sắp xảy ra"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Shutdown imminent"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -5191,12 +4969,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thời gian tạm dừng hết hạn"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Suspend time expired"
           }
         },
         "zh-Hans" : {
@@ -5330,12 +5102,6 @@
             "value" : "Đã tạm ngưng"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Suspended"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5467,12 +5233,6 @@
             "value" : "Liều basal tạm thời đang thực hiện"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Temp basal running"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5601,12 +5361,6 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "threeNotUsed"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
             "value" : "threeNotUsed"
           }
         },
@@ -5741,12 +5495,6 @@
             "value" : "twoNotUsed"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "twoNotUsed"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -5876,12 +5624,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thứ tự tin nhắn không mong đợi"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Unexpected message sequence number"
           }
         },
         "zh-Hans" : {
@@ -6015,12 +5757,6 @@
             "value" : "Lỗi không xác định của pod %1$03d"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Unknown pod fault %1$03d"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6150,12 +5886,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Giá trị không xác định (%1$@) cho loại %2$@"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Unknown Value (%1$@) for type %2$@"
           }
         },
         "zh-Hans" : {
@@ -6289,12 +6019,6 @@
             "value" : "Xác thực không thành công: %1$@"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Validation failed: %1$@"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -6424,12 +6148,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đang chờ đợi câu thông báo ghép đôi"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Waiting for pairing reminder"
           }
         },
         "zh-Hans" : {
