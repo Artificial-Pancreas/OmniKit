@@ -407,7 +407,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Auto-off"
+            "value" : "Автоматичне вимкнення"
           }
         },
         "vi" : {
@@ -1246,8 +1246,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Expiration reminder"
+            "state" : "translated",
+            "value" : "Pripomienka exspirácie"
           }
         },
         "sv" : {
@@ -1265,7 +1265,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Expiration reminder"
+            "value" : "Нагадування про закінчення терміну дії"
           }
         },
         "vi" : {
@@ -1532,8 +1532,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Extended bolus running while suspended"
+            "state" : "translated",
+            "value" : "Rozšírený bolus beží počas pozastavenia"
           }
         },
         "sv" : {
@@ -1551,7 +1551,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Extended bolus running while suspended"
+            "value" : "Подовжена болюсна подача під час призупинення"
           }
         },
         "vi" : {
@@ -2820,7 +2820,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nízka hladina v rezervoári"
+            "value" : "Nízka hladina v zásobníku"
           }
         },
         "sv" : {
@@ -2838,7 +2838,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Low reservoir"
+            "value" : "Пустий резервуар"
           }
         },
         "vi" : {
@@ -3671,8 +3671,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Not used"
+            "state" : "translated",
+            "value" : "Nepoužíva sa"
           }
         },
         "sv" : {
@@ -3690,7 +3690,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Not used"
+            "value" : "Не використовується"
           }
         },
         "vi" : {
@@ -4375,7 +4375,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pod vypršal"
+            "value" : "Pod exspiroval"
           }
         },
         "sv" : {
@@ -5108,7 +5108,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scheduled basal"
+            "value" : "Запланована базальна швидкість"
           }
         },
         "vi" : {
@@ -5376,7 +5376,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Čas pozastavenia vypršal"
+            "value" : "Čas pozastavenia exspiroval"
           }
         },
         "sv" : {

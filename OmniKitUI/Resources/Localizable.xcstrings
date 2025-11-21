@@ -239,7 +239,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n\n⚠️ Critical Pod Fault %1$03d (0x%2$02X)"
+            "value" : "\n\n⚠️ Kritická chyba Podu %1$03d (0x%2$02X)"
           }
         },
         "sv" : {
@@ -257,7 +257,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n\n⚠️ Critical Pod Fault %1$03d (0x%2$02X)"
+            "value" : "⚠️ Критичний збій модуля Pod %1$03d (0x%2$02X)"
           }
         },
         "vi" : {
@@ -382,7 +382,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n  Immediate Bolus In Progress: %1$@"
+            "value" : "\n  Prebieha okamžitý bolus: %1$@"
           }
         },
         "sv" : {
@@ -400,7 +400,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n  Immediate Bolus In Progress: %1$@"
+            "value" : "Триває негайне  введення Болюса: %1$@"
           }
         },
         "vi" : {
@@ -525,7 +525,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n  Insulin State Table Corrupted: %@"
+            "value" : "\nTabuľka stavu inzulínu je poškodená: %@"
           }
         },
         "sv" : {
@@ -543,7 +543,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n  Insulin State Table Corrupted: %@"
+            "value" : "Таблиця стану інсуліну пошкоджена: %@"
           }
         },
         "vi" : {
@@ -668,7 +668,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n  Occlusion Type: %1$@"
+            "value" : "\n  Typ oklúzie: %1$@"
           }
         },
         "sv" : {
@@ -686,7 +686,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n  Occlusion Type: %1$@"
+            "value" : "Тип оклюзії: %1$@"
           }
         },
         "vi" : {
@@ -811,7 +811,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n  Previous Pod Progress: %1$@"
+            "value" : "\nPredchádzajúci priebeh Poda: %1$@"
           }
         },
         "sv" : {
@@ -829,7 +829,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n  Previous Pod Progress: %1$@"
+            "value" : "Прогрес попереднього Pod'у: %1$@"
           }
         },
         "vi" : {
@@ -954,7 +954,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nAlerts: %1$@"
+            "value" : "\nUpozornenia: %1$@"
           }
         },
         "sv" : {
@@ -972,7 +972,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nAlerts: %1$@"
+            "value" : "Сповіщення: %1$@"
           }
         },
         "vi" : {
@@ -1097,7 +1097,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nBolus Not Delivered: %1$@ U"
+            "value" : "\nBolus nebol podaný: %1$@ J"
           }
         },
         "sv" : {
@@ -1115,7 +1115,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nBolus Not Delivered: %1$@ U"
+            "value" : "Болюс не введено: %1$@ U"
           }
         },
         "vi" : {
@@ -1240,7 +1240,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nDelivery Status: %1$@"
+            "value" : "\nStav podania: %1$@"
           }
         },
         "sv" : {
@@ -1258,7 +1258,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nDelivery Status: %1$@"
+            "value" : "Статус введення: %1$@"
           }
         },
         "vi" : {
@@ -1383,7 +1383,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nFault Event Info: %1$03d (0x%2$02X),"
+            "value" : "\nInformácie o chybe: %1$03d (0x%2$02X),"
           }
         },
         "sv" : {
@@ -1401,7 +1401,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nFault Event Info: %1$03d (0x%2$02X),"
+            "value" : "Інформація про подію помилки: %1$03d (0x%2$02X),"
           }
         },
         "vi" : {
@@ -1526,7 +1526,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nFault Time: %1$@"
+            "value" : "\nČas chyby: %1$@"
           }
         },
         "sv" : {
@@ -1544,7 +1544,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nFault Time: %1$@"
+            "value" : "Час помилки: %1$@"
           }
         },
         "vi" : {
@@ -1669,7 +1669,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nLast Programming Seq Num: %1$@"
+            "value" : "\nPosledné sekvenčné číslo programovania: %1$@"
           }
         },
         "sv" : {
@@ -1687,7 +1687,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nLast Programming Seq Num: %1$@"
+            "value" : "Останній номер послідовності програмування: %1$@"
           }
         },
         "vi" : {
@@ -1812,7 +1812,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nPod Progress: %1$@"
+            "value" : "\nPriebeh Poda: %1$@"
           }
         },
         "sv" : {
@@ -1830,7 +1830,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nPod Progress: %1$@"
+            "value" : "Прогрес Podу: %1$@"
           }
         },
         "vi" : {
@@ -1955,7 +1955,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nPulse Count: %1$d"
+            "value" : "\nPočet pulzov: %1$d"
           }
         },
         "sv" : {
@@ -1973,7 +1973,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nPulse Count: %1$d"
+            "value" : "Кількість імпульсів: %1$d"
           }
         },
         "vi" : {
@@ -2098,7 +2098,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nReceiver Low Gain: %1$@"
+            "value" : "\nNízke zosilnenie prijímača: %1$@"
           }
         },
         "sv" : {
@@ -2116,7 +2116,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nReceiver Low Gain: %1$@"
+            "value" : "Низький рівень підсилення приймача: %1$@"
           }
         },
         "vi" : {
@@ -2259,7 +2259,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nRef: %@"
+            "value" : "Посилання: %@"
           }
         },
         "vi" : {
@@ -2384,7 +2384,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nReservoir Level: %1$@ U"
+            "value" : "\nÚroveň zásobníka: %1$@ J"
           }
         },
         "sv" : {
@@ -2402,7 +2402,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nReservoir Level: %1$@ U"
+            "value" : "Рівень резервуару: %1$@ U"
           }
         },
         "vi" : {
@@ -2545,7 +2545,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nRSSI: %1$@"
+            "value" : "RSSI: %1$@"
           }
         },
         "vi" : {
@@ -3285,7 +3285,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ j (Dokončené)"
+            "value" : "%@ J (Dokončené)"
           }
         },
         "sv" : {
@@ -3441,7 +3441,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ j z %2$@ j ( %3$@ )"
+            "value" : "%1$@ J z %2$@ J ( %3$@ )"
           }
         },
         "sv" : {
@@ -3459,7 +3459,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ U of %2$@ U (%3$@)"
+            "value" : "%1$@ U з %2$@ U (%3$@)"
           }
         },
         "vi" : {
@@ -3597,7 +3597,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ j/hod"
+            "value" : "%@ J/hod"
           }
         },
         "sv" : {
@@ -4064,7 +4064,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@+ j"
+            "value" : "%@+ J"
           }
         },
         "sv" : {
@@ -4195,7 +4195,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ j"
+            "value" : "%@ J"
           }
         },
         "sv" : {
@@ -4481,7 +4481,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ has been unable to communicate with the pod on your body since %2$@.\n\nDo not Discard the Pod without scrolling to read this entire screen.\n\nCommunication was interrupted at a critical time. Information about active insulin / pod temp basal rate is uncertain.\n\nYou can toggle RileyLink connection (below), toggle phone Bluetooth off and on; power the RileyLink device off and on; or try a different RileyLink. (Wait up to 30 seconds for recovery.)\n\nIf you decide to give up because communication cannot be restored, tap the Discard Pod button, follow the steps and start a new pod.\nMonitor your glucose closely for the next 6 hours, as there may or may not be insulin actively working in your body that %3$@ cannot display."
+            "value" : "%1$@ nebol schopný komunikovať s Podom na vašom tele od %2$@.\n\nPozorne čítajte celú obrazovku a neodstraňujte Pod bez toho, aby ste si ju celú prečítali.\n\nKomunikácia bola prerušená v kritickom momente. Informácie o aktívnom inzulíne alebo dočasnej bazálnej dávke Podu sú nejasné.\n\nMôžete skúsiť prepnúť pripojenie RileyLink (nižšie), vypnúť a znovu zapnúť Bluetooth v telefóne, vypnúť a zapnúť zariadenie RileyLink alebo použiť iný RileyLink. (Počkajte až 30 sekúnd na obnovenie.)\n\nAk sa rozhodnete vzdať sa, pretože komunikáciu sa nepodarilo obnoviť, ťuknite na tlačidlo Odstrániť Pod, postupujte podľa krokov a spustite nový Pod.\nPozorne sledujte svoju hladinu glykémie počas nasledujúcich 6 hodín, pretože v tele môže, ale nemusí byť aktívny inzulín, ktorý %3$@ nedokáže zobraziť."
           }
         },
         "sv" : {
@@ -4499,7 +4499,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ has been unable to communicate with the pod on your body since %2$@.\n\nDo not Discard the Pod without scrolling to read this entire screen.\n\nCommunication was interrupted at a critical time. Information about active insulin / pod temp basal rate is uncertain.\n\nYou can toggle RileyLink connection (below), toggle phone Bluetooth off and on; power the RileyLink device off and on; or try a different RileyLink. (Wait up to 30 seconds for recovery.)\n\nIf you decide to give up because communication cannot be restored, tap the Discard Pod button, follow the steps and start a new pod.\nMonitor your glucose closely for the next 6 hours, as there may or may not be insulin actively working in your body that %3$@ cannot display."
+            "value" : "%1$@ не може зв’язатися з картриджем на вашому тілі з %2$@.\n\nНе викидайте картридж, не прокрутивши весь екран, щоб прочитати його.\n\nЗв’язок було перервано в критичний момент. Інформація про активний інсулін / тимчасову базальну швидкість картриджа є неточною.\n\nВи можете перемкнути з’єднання RileyLink (нижче), вимкнути та ввімкнути Bluetooth телефону; вимкнути та ввімкнути пристрій RileyLink; або спробувати інший RileyLink. (Зачекайте до 30 секунд для відновлення.)\n\nЯкщо ви вирішите здатися, оскільки зв’язок неможливо відновити, натисніть кнопку «Викинути картридж», виконайте кроки та запустіть новий картридж.\nУважно контролюйте рівень глюкози протягом наступних 6 годин, оскільки у вашому організмі може бути або не бути інсуліну, який %3$@ не може відобразити."
           }
         },
         "vi" : {
@@ -4630,7 +4630,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ has recovered communication with the pod on your body.\n\nInsulin delivery records have been updated and should match what has actually been delivered.\n\nYou may continue to use %2$@ normally now."
+            "value" : "%1$@ obnovil komunikáciu s Podom na vašom tele.\n\nZáznamy o podávaní inzulínu boli aktualizované a mali by zodpovedať tomu, čo bolo skutočne podané.\n\nTeraz môžete pokračovať v bežnom používaní %2$@."
           }
         },
         "sv" : {
@@ -4648,7 +4648,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ has recovered communication with the pod on your body.\n\nInsulin delivery records have been updated and should match what has actually been delivered.\n\nYou may continue to use %2$@ normally now."
+            "value" : "%1$@ відновив зв'язок з Podом на вашому тілі.\n\nЗаписи про введення інсуліну оновлено та мають відповідати фактично введеному.\n\nВи можете продовжувати використовувати %2$@ як завжди."
           }
         },
         "vi" : {
@@ -4773,7 +4773,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ minutes"
+            "value" : "%1$@ minút"
           }
         },
         "sv" : {
@@ -4791,7 +4791,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ minutes"
+            "value" : "%1$@ хвилин"
           }
         },
         "vi" : {
@@ -5502,7 +5502,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%g j"
+            "value" : "%g J"
           }
         },
         "sv" : {
@@ -5645,7 +5645,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "⚠️ Insulin delivery stopped. Change Pod now."
+            "value" : "⚠️ Podávanie inzulínu bolo zastavené. Teraz vymeňte Pod."
           }
         },
         "sv" : {
@@ -5663,7 +5663,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "⚠️ Insulin delivery stopped. Change Pod now."
+            "value" : "⚠️ Подача інсуліну зупинена. Негайно замініть Pod."
           }
         },
         "vi" : {
@@ -6360,7 +6360,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A reminder is configured during Pod setup to notify you in advance of its expiration. Set the number of hours advance notice you would like to configure by default when pairing a new Pod."
+            "value" : "Pripomienka sa nastavuje počas nastavovania Poda, aby vás vopred upozornila na jeho exspiráciu. Nastavte počet hodín vopred, ktorý chcete mať predvolene nastavený pri párovaní nového Poda."
           }
         },
         "sv" : {
@@ -6378,7 +6378,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A reminder is configured during Pod setup to notify you in advance of its expiration. Set the number of hours advance notice you would like to configure by default when pairing a new Pod."
+            "value" : "Нагадування налаштовується під час налаштування Pod, щоб сповістити вас про закінчення терміну його дії. Встановіть кількість годин, за які ви хочете налаштувати нагадування за замовчуванням під час сполучення нового Pod."
           }
         },
         "vi" : {
@@ -14923,7 +14923,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Expiration reminder time for the current Pod."
+            "value" : "Čas pripomienky exspirácie pre aktuálny Pod."
           }
         },
         "sv" : {
@@ -14941,7 +14941,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Expiration reminder time for the current Pod."
+            "value" : "Час нагадування про закінчення терміну дії для поточного Pod."
           }
         },
         "vi" : {
@@ -15521,7 +15521,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to play test beeps."
+            "value" : "Nepodarilo sa prehrať testovacie pípnutia."
           }
         },
         "sv" : {
@@ -15539,7 +15539,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to play test beeps."
+            "value" : "Не вдалося відтворити тестові звукові сигнали."
           }
         },
         "vi" : {
@@ -15664,7 +15664,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to read activation time."
+            "value" : "Nepodarilo sa prečítať čas aktivácie."
           }
         },
         "sv" : {
@@ -15682,7 +15682,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to read activation time."
+            "value" : "Не вдалося прочитати час активації."
           }
         },
         "vi" : {
@@ -15807,7 +15807,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to read pod status."
+            "value" : "Nepodarilo sa prečítať stav Podu."
           }
         },
         "sv" : {
@@ -15825,7 +15825,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to read pod status."
+            "value" : "Не вдалося прочитати стан Podу."
           }
         },
         "vi" : {
@@ -15950,7 +15950,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to read pulse log plus."
+            "value" : "Zlyhalo čítanie záznamu pulzov plus."
           }
         },
         "sv" : {
@@ -15968,7 +15968,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to read pulse log plus."
+            "value" : "Не вдалося прочитати журнал Log  плюс."
           }
         },
         "vi" : {
@@ -16093,7 +16093,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to read pulse log."
+            "value" : "Zlyhalo čítanie záznamu pulzov."
           }
         },
         "sv" : {
@@ -16111,7 +16111,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to read pulse log."
+            "value" : "Не вдалося прочитати журнал Log."
           }
         },
         "vi" : {
@@ -16236,7 +16236,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to read triggered alerts."
+            "value" : "Nepodarilo sa prečítať spustené upozornenia."
           }
         },
         "sv" : {
@@ -16254,7 +16254,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to read triggered alerts."
+            "value" : "Не вдалося прочитати активовані сповіщення."
           }
         },
         "vi" : {
@@ -17094,7 +17094,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nepodarilo sa aktualizovať pripomienku nízkej hladiny v rezervoári"
+            "value" : "Nepodarilo sa aktualizovať pripomienku nízkej hladiny zásobníka"
           }
         },
         "sv" : {
@@ -17536,7 +17536,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Naplňte nový pod inzulínom U-100 (kryt ihly ponechajte nasadený). Budete počuť 2 pípnutia."
+            "value" : "Naplňte nový Pod inzulínom 100 J (kryt ihly ponechajte nasadený). Budete počuť 2 pípnutia."
           }
         },
         "sv" : {
@@ -19499,7 +19499,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulinabgabe\nunterbrochen"
+            "value" : "Insulin\nUnterbrochen"
           }
         },
         "es" : {
@@ -19607,7 +19607,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulin\nSuspended"
+            "value" : "Інсулін\nПризупинено"
           }
         },
         "vi" : {
@@ -20019,7 +20019,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulin delivery will be stopped until you resume manually. Select when you want to be reminded to resume delivery?"
+            "value" : "Podávanie inzulínu bude zastavené, kým ho manuálne neobnovíte. Vyberte, kedy chcete dostať pripomienku na obnovenie podávania?"
           }
         },
         "sv" : {
@@ -20037,7 +20037,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulin delivery will be stopped until you resume manually. Select when you want to be reminded to resume delivery?"
+            "value" : "Подача інсуліну буде зупинена, доки ви не відновите її вручну. Виберіть, коли ви хочете отримати нагадування про відновлення подачі."
           }
         },
         "vi" : {
@@ -20424,7 +20424,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Internal Pod fault code %1$03d\n%2$@\nRef: %3$@\n"
+            "value" : "Vnútorný kód chyby Podu %1$03d \n%2$@\nRef.: %3$@\n"
           }
         },
         "sv" : {
@@ -20442,7 +20442,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Internal Pod fault code %1$03d\n%2$@\nRef: %3$@\n"
+            "value" : "Внутрішній код помилки Pod %1$03d\n%2$@\nПосилання: %3$@"
           }
         },
         "vi" : {
@@ -21021,7 +21021,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keep Waiting"
+            "value" : "Pokračovať v čakaní"
           }
         },
         "sv" : {
@@ -21039,7 +21039,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keep Waiting"
+            "value" : "Продовжуйте чекати"
           }
         },
         "vi" : {
@@ -21630,7 +21630,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nízka hladina v rezervoári"
+            "value" : "Nízka hladina v zásobníku"
           }
         },
         "sv" : {
@@ -21779,7 +21779,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pripomienka Nízka hladina v rezervoári"
+            "value" : "Pripomienka nízkej hladiny zásobníka"
           }
         },
         "sv" : {
@@ -22530,7 +22530,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "NA"
+            "value" : "Недоступно"
           }
         },
         "vi" : {
@@ -22934,8 +22934,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No\nDelivery"
+            "state" : "translated",
+            "value" : "Žiadne podávanie"
           }
         },
         "sv" : {
@@ -22953,7 +22953,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No\nDelivery"
+            "value" : "Без\nПодачі"
           }
         },
         "vi" : {
@@ -25501,7 +25501,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pairing…"
+            "value" : "Створення пари..."
           }
         },
         "vi" : {
@@ -26072,7 +26072,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Play test beeps command sent successfully.\n\nIf you did not hear any beeps from your Pod, the piezo speaker in your Pod may be broken or disabled."
+            "value" : "Príkaz na prehratie testovacích pípnutí bol úspešne odoslaný. \nAk ste nepočuli žiadne pípnutie z Podu, piezo reproduktor vo vašom pode môže byť pokazený alebo vypnutý."
           }
         },
         "sv" : {
@@ -26090,7 +26090,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Play test beeps command sent successfully.\n\nIf you did not hear any beeps from your Pod, the piezo speaker in your Pod may be broken or disabled."
+            "value" : "Команду відтворення тестових звукових сигналів успішно надіслано.\n\nЯкщо ви не чули жодних звукових сигналів від вашого Pod, можливо, п'єзодинамік у вашому Pod зламаний або несправний."
           }
         },
         "vi" : {
@@ -26371,7 +26371,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Playing Test Beeps..."
+            "value" : "Prehrávanie testovacích pípnutí..."
           }
         },
         "sv" : {
@@ -26389,7 +26389,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Playing Test Beeps..."
+            "value" : "Відтворення тестових звукових сигналів..."
           }
         },
         "vi" : {
@@ -26514,7 +26514,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Please confirm that the Pod is securely attached to your body.\n\nThe cannula can be inserted only once with each Pod. Tap “Confirm” when Pod is attached."
+            "value" : "Potvrďte, že pod je bezpečne pripevnený k vášmu telu. \nKanyla sa môže zaviesť iba raz pre každý Pod. Klepnite na „Potvrdiť“, keď je Pod pripevnený."
           }
         },
         "sv" : {
@@ -26532,7 +26532,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Please confirm that the Pod is securely attached to your body.\n\nThe cannula can be inserted only once with each Pod. Tap “Confirm” when Pod is attached."
+            "value" : "Будь ласка, переконайтеся, що Pod надійно прикріплений до вашого тіла.\n\nКанюлю можна вводити лише один раз у кожен Pod. Натисніть «Підтвердити», коли Pod буде прикріплено."
           }
         },
         "vi" : {
@@ -27241,7 +27241,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pod Active: %1$@"
+            "value" : "Pod aktívny: %1$@"
           }
         },
         "sv" : {
@@ -27259,7 +27259,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pod Active: %1$@"
+            "value" : "Активний Pod: %1$@"
           }
         },
         "vi" : {
@@ -27975,7 +27975,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pod vypršal"
+            "value" : "Pod exspiroval"
           }
         },
         "sv" : {
@@ -28118,7 +28118,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pod expiroval"
+            "value" : "Pod exspiroval"
           }
         },
         "sv" : {
@@ -28547,7 +28547,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pod Fault %1$03d"
+            "value" : "Chyba Podu: %1$03d"
           }
         },
         "sv" : {
@@ -28565,7 +28565,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pod Fault %1$03d"
+            "value" : "Помилка Pod %1$03d"
           }
         },
         "vi" : {
@@ -30445,7 +30445,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Podrobnosti o manažérovi čerpadla"
+            "value" : "Podrobnosti o správcovi pumpy"
           }
         },
         "sv" : {
@@ -31595,7 +31595,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reading Activation Time..."
+            "value" : "Čítanie času aktivácie..."
           }
         },
         "sv" : {
@@ -31613,7 +31613,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reading Activation Time..."
+            "value" : "Час активації читання..."
           }
         },
         "vi" : {
@@ -31738,7 +31738,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reading Pod Status..."
+            "value" : "Čítanie stavu Podu..."
           }
         },
         "sv" : {
@@ -31756,7 +31756,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reading Pod Status..."
+            "value" : "Зчитування стану Pod..."
           }
         },
         "vi" : {
@@ -31881,7 +31881,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reading Pulse Log Plus..."
+            "value" : "Čítanie záznamu pulzov plus..."
           }
         },
         "sv" : {
@@ -31899,7 +31899,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reading Pulse Log Plus..."
+            "value" : "Зчитування журналу Log Плюс..."
           }
         },
         "vi" : {
@@ -32024,7 +32024,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reading Pulse Log..."
+            "value" : "Čítanie záznamu pulzov..."
           }
         },
         "sv" : {
@@ -32042,7 +32042,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reading Pulse Log..."
+            "value" : "Зчитування журналу Log..."
           }
         },
         "vi" : {
@@ -32167,7 +32167,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reading Triggered Alerts..."
+            "value" : "Načítavajú sa spustené upozornenia..."
           }
         },
         "sv" : {
@@ -32185,7 +32185,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reading Triggered Alerts..."
+            "value" : "Читання активованих сповіщень..."
           }
         },
         "vi" : {
@@ -32322,7 +32322,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ref: "
+            "value" : "Посилання:"
           }
         },
         "vi" : {
@@ -32447,7 +32447,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Podrobnosti o manažérovi čerpadla"
+            "value" : "Obnoviť podrobnosti o správcovi pumpy"
           }
         },
         "sv" : {
@@ -33474,7 +33474,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezervoár"
+            "value" : "Zásobník"
           }
         },
         "sv" : {
@@ -33915,7 +33915,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Získanie údajov o správcovi čerpadla..."
+            "value" : "Načítavajú sa podrobnosti o správcovi pumpy..."
           }
         },
         "sv" : {
@@ -36681,7 +36681,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Slide Button to insert Cannula"
+            "value" : "Posuňte tlačidlo na zavedenie kanyly"
           }
         },
         "sv" : {
@@ -36699,7 +36699,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Slide Button to insert Cannula"
+            "value" : "Готовий до введення канюлі"
           }
         },
         "vi" : {
@@ -39567,7 +39567,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "The reminders above will not sound on your device when it is in Silent or Do Not Disturb mode. There are other critical Pod alerts that will sound on your device even when set to Silent or Do Not Disturb mode.\n\nThe Pod will also use audible beeps for all Pod reminders and alerts except when the Pod is Silenced."
+            "value" : "Vyššie uvedené upozornenia sa na vašom zariadení neozvú, keď je v režime Tichý alebo Nerušiť. Existujú aj ďalšie kritické upozornenia podu, ktoré sa na vašom zariadení ozvú aj vtedy, keď je nastavený režim Tichý alebo Nerušiť.\n\nPod bude tiež používať počuteľné pípnutia pre všetky pripomienky a upozornenia Podu, okrem prípadu, keď je Pod stíšený."
           }
         },
         "sv" : {
@@ -39585,7 +39585,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "The reminders above will not sound on your device when it is in Silent or Do Not Disturb mode. There are other critical Pod alerts that will sound on your device even when set to Silent or Do Not Disturb mode.\n\nThe Pod will also use audible beeps for all Pod reminders and alerts except when the Pod is Silenced."
+            "value" : "Вищезазначені нагадування не звучатимуть на вашому пристрої, коли він перебуває в режимі «Без звуку» або «Не турбувати». Існують інші важливі сповіщення Pod, які лунатимуть на вашому пристрої, навіть якщо встановлено режим «Без звуку» або «Не турбувати».\n\nPod також використовуватиме звукові сигнали для всіх нагадувань і сповіщень Pod, окрім випадків, коли Pod перебуває в режимі «Без звуку»."
           }
         },
         "vi" : {
@@ -39710,7 +39710,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Čas na Vašej pumpe sa líši od aktuálneho času. Chcete aktualizovať čas na vašej pumpe na aktuálny čas?"
+            "value" : "Čas na vašej pumpe sa líši od aktuálneho času. Chcete aktualizovať čas na vašej pumpe s aktuálnym čas?"
           }
         },
         "sv" : {
@@ -40270,7 +40270,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "This Pump has not been configured with a maximum basal rate because it was added before manual temp basal was a feature. Please set a new Maximum Basal Rate."
+            "value" : "Táto pumpa nemá nastavenú maximálnu bazálnu dávku, pretože bola pridaná ešte predtým, ako bola k dispozícii funkcia manuálnej dočasnej bazálnej dávky. Prosím, nastavte novú maximálnu bazálnu dávku."
           }
         },
         "sv" : {
@@ -40288,7 +40288,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "This Pump has not been configured with a maximum basal rate because it was added before manual temp basal was a feature. Please set a new Maximum Basal Rate."
+            "value" : "Ця помпа не налаштована на максимальну базальну дозу, оскільки його було додано до того, як стала доступна функція ручного тимчасового базалу. Будь ласка, встановіть нову максимальну базальну дозу."
           }
         },
         "vi" : {
@@ -41600,7 +41600,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unable To Reach Pod"
+            "value" : "Не вдалося зв'язатися з Pod"
           }
         },
         "vi" : {
@@ -41886,7 +41886,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unable to set a temporary basal rate: %1$@\n\n%2$@"
+            "value" : "Не вдалося встановити тимчасову базальну швидкість: %1$@\n\n%2$@"
           }
         },
         "vi" : {
@@ -43007,7 +43007,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You will be notified in advance of Pod expiration.\n\nScroll to set the number of hours advance notice you would like to have."
+            "value" : "Budete vopred upozornení na expiráciu Podu.\n\nPosunutím nastavte počet hodín vopred, s akým predstihom chcete byť upozornení."
           }
         },
         "sv" : {
@@ -43025,7 +43025,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You will be notified in advance of Pod expiration.\n\nScroll to set the number of hours advance notice you would like to have."
+            "value" : "Ви отримаєте попередження про закінчення терміну дії Pod.\n\nПрокрутіть, щоб встановити потрібну кількість годин попередження."
           }
         },
         "vi" : {
@@ -43150,7 +43150,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You will be notified when the amount of insulin in the Pod reaches a selected level.\n\nScroll to set the number of units (1 to 50) at which you would like to be reminded."
+            "value" : "Budete upozornení, keď množstvo inzulínu v Pode dosiahne zvolenú úroveň.\n\nPrejdite na nastavenie počtu jednotiek (1 až 50), pri ktorých chcete byť upozornení."
           }
         },
         "sv" : {
@@ -43168,7 +43168,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You will be notified when the amount of insulin in the Pod reaches a selected level.\n\nScroll to set the number of units (1 to 50) at which you would like to be reminded."
+            "value" : "Ви отримаєте сповіщення, коли кількість інсуліну в Pod'і досягне вибраного рівня.\n\nПрокрутіть, щоб встановити кількість одиниць (від 1 до 50), за яку ви хочете отримати нагадування."
           }
         },
         "vi" : {
@@ -43293,7 +43293,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You will be notified when the amount of insulin in the Pod reaches this level."
+            "value" : "Keď množstvo inzulínu v Pode dosiahne túto úroveň, budete o tom informovaní."
           }
         },
         "sv" : {
@@ -43311,7 +43311,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You will be notified when the amount of insulin in the Pod reaches this level."
+            "value" : "Програма повідомить вас, коли кількість інсуліну в Pod досягне цього рівня."
           }
         },
         "vi" : {
@@ -43728,7 +43728,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Your Pod is ready for use.\n\nThe default reminder was scheduled for this Pod at setup. You can change the reminder to a more convenient time in Pod Notification Settings."
+            "value" : "Váš Pod je pripravený na použitie.\n\nPredvolené pripomenutie bolo pre tento Pod naplánované pri nastavení. Pripomenutie môžete zmeniť na vhodnejší čas v nastaveniach upozornení Podu."
           }
         },
         "sv" : {
@@ -43746,7 +43746,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Your Pod is ready for use.\n\nThe default reminder was scheduled for this Pod at setup. You can change the reminder to a more convenient time in Pod Notification Settings."
+            "value" : "Ваш Pod готовий до використання.\n\nНагадування за замовчуванням було заплановано для цього Pod під час налаштування. Ви можете змінити нагадування на зручніший час у налаштуваннях сповіщень Pod."
           }
         },
         "vi" : {
@@ -43871,7 +43871,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Your Pod may still be delivering Insulin.\nRemove it from your body, then tap “Continue.“"
+            "value" : "Váš Pod môže stále dodávať inzulín.\nOdstráňte ho z tela a potom ťuknite na „Pokračovať“"
           }
         },
         "sv" : {
@@ -43889,7 +43889,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Your Pod may still be delivering Insulin.\nRemove it from your body, then tap “Continue.“"
+            "value" : "Ваш Pod може все ще подавати інсулін.\nВийміть його з організму, а потім натисніть «Продовжити»."
           }
         },
         "vi" : {
