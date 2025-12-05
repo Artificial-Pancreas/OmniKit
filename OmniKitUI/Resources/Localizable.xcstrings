@@ -3260,8 +3260,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ U of %2$@ U (%3$@)"
+            "state" : "translated",
+            "value" : "%1$@ U din %2$@ U (%3$@)"
           }
         },
         "ru" : {
@@ -4240,8 +4240,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ has been unable to communicate with the pod on your body since %2$@.\n\nDo not Discard the Pod without scrolling to read this entire screen.\n\nCommunication was interrupted at a critical time. Information about active insulin / pod temp basal rate is uncertain.\n\nYou can toggle RileyLink connection (below), toggle phone Bluetooth off and on; power the RileyLink device off and on; or try a different RileyLink. (Wait up to 30 seconds for recovery.)\n\nIf you decide to give up because communication cannot be restored, tap the Discard Pod button, follow the steps and start a new pod.\nMonitor your glucose closely for the next 6 hours, as there may or may not be insulin actively working in your body that %3$@ cannot display."
+            "state" : "translated",
+            "value" : "%1$@ nu a putut comunica cu pompa de pe corpul tău de la %2$@.\n\nÎn lipsa comunicației cu pompa, aplicația nu poate continua să trimită comenzi pentru administrarea de insulină sau să afișeze informații exacte și recente despre insulina activă sau despre insulina administrată de către pompă.\n\nMonitorizați-vă  glicemia cu atenție în următoarele 6 sau mai multe ore, deoarece este posibil să existe sau nu insulină care lucrează activ în corpul dumneavoastră și pe care %3$@ nu o poate afișa."
           }
         },
         "ru" : {
@@ -6035,8 +6035,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A reminder is configured during Pod setup to notify you in advance of its expiration. Set the number of hours advance notice you would like to configure by default when pairing a new Pod."
+            "state" : "translated",
+            "value" : "Aplicația configurează o notificare pentru pompă pentru a vă notifica înainte de expirarea ei. Setați numărul de ore înainte de expirare pentru notificarea pe care doriți să o configurați atunci când asociați o pompă nouă"
           }
         },
         "ru" : {
@@ -23916,8 +23916,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pairing…"
+            "state" : "translated",
+            "value" : "Se asociază…"
           }
         },
         "ru" : {
@@ -37863,8 +37863,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This Pump has not been configured with a maximum basal rate because it was added before manual temp basal was a feature. Please set a new Maximum Basal Rate."
+            "state" : "translated",
+            "value" : "Această pompă nu a fost configurată cu o rată bazală maximă deoarece a fost adăugată înainte ca basala manuală temp să fie o caracteristică. Vă rugăm să setați o nouă rată bazală maximă."
           }
         },
         "ru" : {
