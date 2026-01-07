@@ -3441,7 +3441,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ U/hour"
+            "value" : "%@ U/giờ"
           }
         },
         "zh-Hans" : {
@@ -4277,7 +4277,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ không thể liên lạc với pod trên cơ thể bạn kể từ %2$@.\n\nĐừng vứt bỏ Pod mà chưa kéo xuống đọc hết màn hình này.\n\nLiên lạc đã bị gián đoạn vào thời điểm quan trọng. Thông tin về insulin đang hoạt động / tỷ lệ basal tạm thời của pod hiện không chắc chắn.\n\nBạn có thể:\n\nBật/tắt kết nối RileyLink (dưới đây),\n\nBật/tắt Bluetooth của điện thoại,\n\nTắt và bật lại thiết bị RileyLink,\n\nHoặc thử một RileyLink khác.\n\n(Đợi tối đa 30 giây để khôi phục kết nối.)\n\nNếu bạn quyết định từ bỏ vì không thể khôi phục liên lạc, hãy nhấn nút Vứt Pod (Discard Pod), làm theo các bước và bắt đầu một pod mới.\n\nTheo dõi sát đường huyết trong 6 giờ tới, vì có thể hoặc không có insulin đang hoạt động trong cơ thể mà %3$@ không thể hiển thị."
+            "value" : "%1$@ không thể liên lạc với pod trên cơ thể bạn kể từ %2$@.\n\nĐừng vứt bỏ Pod mà chưa kéo xuống đọc hết màn hình này.\n\nLiên lạc đã bị gián đoạn vào thời điểm quan trọng. Thông tin về insulin đang hoạt động / tỷ lệ nền tạm thời của pod hiện không chắc chắn.\n\nBạn có thể:\n\nBật/tắt kết nối RileyLink (dưới đây),\n\nBật/tắt Bluetooth của điện thoại,\n\nTắt và bật lại thiết bị RileyLink,\n\nHoặc thử một RileyLink khác.\n\n(Đợi tối đa 30 giây để khôi phục kết nối.)\n\nNếu bạn quyết định từ bỏ vì không thể khôi phục liên lạc, hãy nhấn nút Vứt Pod (Discard Pod), làm theo các bước và bắt đầu một pod mới.\n\nTheo dõi sát đường huyết trong 6 giờ tới, vì có thể hoặc không có insulin đang hoạt động trong cơ thể mà %3$@ không thể hiển thị."
           }
         },
         "zh-Hans" : {
@@ -6012,7 +6012,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iAPS configureert melding op de Pod om je op de hoogte te stellen wanneer de Pod verloopt. Stel het aantal uren vooraf in dat je standaard wilt instellen als je een nieuwe Pod koppelt."
+            "value" : "OS-AID configureert melding op de Pod om je op de hoogte te stellen wanneer de Pod verloopt. Stel het aantal uren vooraf in dat je standaard wilt instellen als je een nieuwe Pod koppelt."
           }
         },
         "pl" : {
@@ -7880,7 +7880,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liều tiêm basal"
+            "value" : "Tiêm liều nền"
           }
         },
         "zh-Hans" : {
@@ -8024,7 +8024,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lịch biểu tiêm liều nền"
+            "value" : "Tỷ lệ liều nền"
           }
         },
         "zh-Hans" : {
@@ -8442,7 +8442,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hủy bỏ liều basal thủ công"
+            "value" : "Hủy bỏ liều nền thủ công"
           }
         },
         "zh-Hans" : {
@@ -14424,7 +14424,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không thể hủy liều basal thủ công"
+            "value" : "Không thể hủy liều nền thủ công"
           }
         },
         "zh-Hans" : {
@@ -33057,7 +33057,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đã lên chương trình cho liều Basal"
+            "value" : "Đã lên chương trình cho liều nền"
           }
         },
         "zh-Hans" : {
@@ -37900,7 +37900,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bơm này chưa được thiết lập mức basal tối đa vì nó được thêm vào trước khi tính năng basal tạm thời thủ công có sẵn. Vui lòng đặt Mức Basal Tối Đa mới."
+            "value" : "Bơm này chưa được thiết lập mức liều nền tối đa vì nó được thêm vào trước khi tính năng liều nền tạm thời thủ công có sẵn. Vui lòng đặt Mức Liều nền Tối Đa mới."
           }
         },
         "zh-Hans" : {
@@ -39283,7 +39283,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không thể cài đặt mức tỷ lệ liều cơ bản tạm thời: %1$@"
+            "value" : "Không thể cài đặt mức tỷ lệ liều nền tạm thời: %1$@"
           }
         },
         "zh-Hans" : {
@@ -39420,7 +39420,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không thể đặt mức basal tạm thời: %1$@\n\n%2$@"
+            "value" : "Không thể đặt mức liều nền tạm thời: %1$@\n\n%2$@"
           }
         },
         "zh-Hans" : {
@@ -41071,7 +41071,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Việc cung cấp insulin của bạn sẽ không được điều chỉnh tự động cho đến khi mức cơ bản tạm thời kết thúc hoặc bị hủy bỏ."
+            "value" : "Việc cung cấp insulin của bạn sẽ không được điều chỉnh tự động cho đến khi tỷ lệ liều nền tạm thời kết thúc hoặc bị hủy bỏ."
           }
         },
         "zh-Hans" : {
