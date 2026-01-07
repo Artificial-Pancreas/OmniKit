@@ -538,7 +538,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liều basal được khởi tạo"
+            "value" : "Liều nền được khởi tạo"
           }
         },
         "zh-Hans" : {
@@ -812,7 +812,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang thực hiện liều basal tạm thời"
+            "value" : "Đang thực hiện liều nền tạm thời"
           }
         },
         "zh-Hans" : {
@@ -4922,7 +4922,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Basal theo lịch trình"
+            "value" : "Liều nền theo lịch trình"
           }
         },
         "zh-Hans" : {
@@ -5470,7 +5470,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liều basal tạm thời đang thực hiện"
+            "value" : "Liều nền tạm thời đang thực hiện"
           }
         },
         "zh-Hans" : {
