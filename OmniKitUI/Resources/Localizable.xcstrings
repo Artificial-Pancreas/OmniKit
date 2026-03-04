@@ -3966,7 +3966,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@U"
           }
         },
@@ -4168,8 +4168,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ has been unable to communicate with the pod on your body since %2$@.\n\nDo not Discard the Pod without scrolling to read this entire screen.\n\nCommunication was interrupted at a critical time. Information about active insulin / pod temp basal rate is uncertain.\n\nYou can toggle RileyLink connection (below), toggle phone Bluetooth off and on; power the RileyLink device off and on; or try a different RileyLink. (Wait up to 30 seconds for recovery.)\n\nIf you decide to give up because communication cannot be restored, tap the Discard Pod button, follow the steps and start a new pod.\nMonitor your glucose closely for the next 6 hours, as there may or may not be insulin actively working in your body that %3$@ cannot display."
+            "state" : "translated",
+            "value" : "%1$@ konnte seit %2$@ nicht mit dem aktuellen sich in Betrieb befindlichen Pod kommunizieren\n\nBevor du den Pod entfernst oder deaktivierst, lese dir die folgenden Informationen durch.\n\nDie Kommunikation mit dem Pod wurde zu einem kritischen Zeitpunkt unterbrochen. Der Status hinsichtlich aktivem Insulin bzw. der temporären Basalrate des Pods ist unbekannt.\n\nUm die Verbindung zum RileyLink wieder herzustellen (siehe unten), kannst du das Bluetooth von deinem Telefon und/oder den RileyLink ein- und ausschalten (warte jeweils 30 Sekunden bis sich die Geräte finden).\nAlternativ kannst du auch einen anderen RileyLink ausprobieren.\n\nWenn keine Kommunikation mit dem Pod wiederhergestellt werden kann, drücke \"Pod ersetzen\" und folge den Anweisungen, um einen neuen Pod zu starten.\nÜberwache deinen Blutzucker für die nächsten 6 Stunden besonders engmaschig, da sich noch zuvor abgegebenes, aktives Insulin in deinem Körper befinden kann, dass von %3$@ nicht angezeigt wird."
           }
         },
         "es" : {
@@ -4651,8 +4651,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ units remaining at %2$@"
+            "state" : "translated",
+            "value" : "%1$@ unități rămase la %2$@"
           }
         },
         "ru" : {
@@ -5963,8 +5963,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A reminder is configured during Pod setup to notify you in advance of its expiration. Set the number of hours advance notice you would like to configure by default when pairing a new Pod."
+            "state" : "translated",
+            "value" : "Während der Einrichtung des Pods wird eine Erinnerung konfiguriert, die vor Ablauf des Pods benachrichtigt. Lege fest, wie viele Stunden im Voraus du standardmäßig benachrichtigt werden möchtest, wenn du einen neuen Pod koppelst."
           }
         },
         "es" : {
@@ -6871,8 +6871,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to shutdown this pod?"
+            "state" : "translated",
+            "value" : "Sigur doriți să opriți această pompă?"
           }
         },
         "ru" : {
@@ -7007,8 +7007,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to skip Omnipod Onboarding?"
+            "state" : "translated",
+            "value" : "Sunteți sigur/ă că vreți să săriți peste inițierea pompei Omnipod?"
           }
         },
         "ru" : {
@@ -7144,8 +7144,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to stop using Omnipod?"
+            "state" : "translated",
+            "value" : "Sunteți sigur/ă că nu mai vreți să utilizați pompa Omnipod?"
           }
         },
         "ru" : {
@@ -7288,8 +7288,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Assigned Address"
+            "state" : "translated",
+            "value" : "Adresă atribuită"
           }
         },
         "ru" : {
@@ -10140,7 +10140,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Configuration"
           }
         },
@@ -10152,7 +10152,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Configuration"
           }
         },
@@ -10182,7 +10182,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Configuration"
           }
         },
@@ -10200,8 +10200,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Configuration"
+            "state" : "translated",
+            "value" : "Configurare"
           }
         },
         "ru" : {
@@ -10611,8 +10611,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Continue"
+            "state" : "translated",
+            "value" : "Continuați"
           }
         },
         "ru" : {
@@ -12420,8 +12420,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disable Bolus Beeps"
+            "state" : "translated",
+            "value" : "Dezactivați semnalele sonore ale bolusului"
           }
         },
         "ru" : {
@@ -12662,6 +12662,12 @@
             "value" : "Fine"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ferdig"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12694,8 +12700,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Realizat"
           }
         },
         "ru" : {
@@ -12838,8 +12844,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable Bolus Beeps"
+            "state" : "translated",
+            "value" : "Activare semnale sonore bolus"
           }
         },
         "ru" : {
@@ -13754,7 +13760,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Standard Ablauf-Erinnerung"
+            "value" : "Standarderinnerung für Ablauf der Nutzungsdauer"
           }
         },
         "es" : {
@@ -13890,8 +13896,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Expiration reminder time for the current Pod."
+            "state" : "translated",
+            "value" : "Uhrzeit für Ablauferinnerung vom aktuellen Pod."
           }
         },
         "es" : {
@@ -14726,8 +14732,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to read pod status."
+            "state" : "translated",
+            "value" : "Konnte Pod-Status nicht auslesen."
           }
         },
         "es" : {
@@ -15960,7 +15966,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fehler beim Aktualisieren der Erinnerung für einen niedrigen Vorratsbehälter"
+            "value" : "Fehler beim Aktualisieren der Erinnerung für ein niedriges Reservoir"
           }
         },
         "es" : {
@@ -16097,7 +16103,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fehler beim Aktualisieren der Stille Pod Einstellung."
+            "value" : "Fehler beim Aktualisieren der Stiller-Pod-Einstellung."
           }
         },
         "es" : {
@@ -16378,7 +16384,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Füllen Sie einen neuen Pod mit U-100-Insulin (Entfernen Sie nicht den Nadelverschluss). Warten Sie auf 2 Pieptöne."
+            "value" : "Fülle einen neuen Pod mit U-100-Insulin (entferne nicht den Nadelverschluss). Warte auf 2 Pieptöne."
           }
         },
         "es" : {
@@ -16730,8 +16736,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Finish pod setup"
+            "state" : "translated",
+            "value" : "Finalizare setare pompă"
           }
         },
         "ru" : {
@@ -17415,8 +17421,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "If you cancel Pod setup, the current Pod will be deactivated and will be unusable."
+            "state" : "translated",
+            "value" : "Dacă anulați configurarea pompei, pompa curentă va fi dezactivată și va fi inutilizabilă."
           }
         },
         "ru" : {
@@ -17482,7 +17488,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Der unvollständig eingerichtete Pod muss vor der Kopplung eines neuen deaktiviert werden. Bitte deaktivieren und verwerfen Sie den Pod."
+            "value" : "Der unvollständig eingerichtete Pod muss vor der Kopplung eines neuen Pods deaktiviert werden. Bitte deaktiviere und verwerfe den Pod."
           }
         },
         "en" : {
@@ -17559,8 +17565,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and discard pod."
+            "state" : "translated",
+            "value" : "O pompă configurată incomplet trebuie dezactivată înainte de asocierea cu una nouă. Vă rugăm să dezactivați și să scoateți pompa."
           }
         },
         "ru" : {
@@ -17626,7 +17632,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Der unvollständig eingerichtete Pod muss vor der Kopplung mit einem neuen deaktiviert werden. Bitte deaktivieren und entfernen Sie den Pod."
+            "value" : "Der unvollständig eingerichtete Pod muss vor der Kopplung mit einem neuen Pod deaktiviert werden. Bitte deaktiviere und entferne den Pod."
           }
         },
         "en" : {
@@ -17703,8 +17709,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Incompletely set up pod must be deactivated before pairing with a new one. Please deactivate and remove pod."
+            "state" : "translated",
+            "value" : "O pompă configurată incomplet trebuie dezactivată înainte de asocierea cu una nouă. Vă rugăm să dezactivați și să scoateți pompa."
           }
         },
         "ru" : {
@@ -18675,8 +18681,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin Delivery"
+            "state" : "translated",
+            "value" : "Administare insulină"
           }
         },
         "ru" : {
@@ -18740,8 +18746,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin delivery will be stopped until you resume manually. Select when you want to be reminded to resume delivery?"
+            "state" : "translated",
+            "value" : "Die Insulinabgabe wird unterbrochen, bis Du sie manuell fortsetzt. Wähle aus, wann Du an die Wiederaufnahme der Abgabe erinnert werden möchtest."
           }
         },
         "es" : {
@@ -18949,8 +18955,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin Remaining"
+            "state" : "translated",
+            "value" : "Insulină rămasă"
           }
         },
         "ru" : {
@@ -19086,8 +19092,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin Type"
+            "state" : "translated",
+            "value" : "Tip de insulină"
           }
         },
         "ru" : {
@@ -21066,8 +21072,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Missing Config"
+            "state" : "translated",
+            "value" : "缺少配置"
           }
         }
       }
@@ -21435,8 +21441,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No"
+            "state" : "translated",
+            "value" : "Nu"
           }
         },
         "ru" : {
@@ -22257,8 +22263,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No, Keep Pump As Is"
+            "state" : "translated",
+            "value" : "Nu, păstrați pompa așa cum este"
           }
         },
         "ru" : {
@@ -30949,8 +30955,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Remove Pump"
+            "state" : "translated",
+            "value" : "Elimină pompa"
           }
         },
         "ru" : {
@@ -32626,8 +32632,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save"
+            "state" : "translated",
+            "value" : "Salvează"
           }
         },
         "ru" : {
@@ -32907,8 +32913,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Schedule"
+            "state" : "translated",
+            "value" : "Orar"
           }
         },
         "ru" : {
@@ -33044,8 +33050,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Scheduled Basal"
+            "state" : "translated",
+            "value" : "Bazală programată"
           }
         },
         "ru" : {
@@ -33872,8 +33878,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Setup Complete"
+            "state" : "translated",
+            "value" : "Configurare finalizată"
           }
         },
         "ru" : {
@@ -34218,7 +34224,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stille Pod Modus unterdrückt alle Pod Warnungen und Bestätigungs-Erinnerung."
+            "value" : "Stiller-Pod-Modus unterdrückt alle Pod-Warnungen und Bestätigungs-Erinnerung."
           }
         },
         "es" : {
@@ -34490,8 +34496,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Slide Button to insert Cannula"
+            "state" : "translated",
+            "value" : "Wischen, um die Kanüle einzuführen."
           }
         },
         "es" : {
@@ -34628,7 +34634,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verschieben Sie den Schalter unten, um mit der Kanüleneinfügen zu beginnen."
+            "value" : "Verschiebe den Schalter unten, um mit der Einführung der Kanüle zu beginnen."
           }
         },
         "es" : {
@@ -34765,7 +34771,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Slide zum Deaktivieren von Pod"
+            "value" : "Wischen um Pod zu deaktivieren"
           }
         },
         "es" : {
@@ -34902,7 +34908,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Streichen um die Kanüle einzuführen"
+            "value" : "Wischen um die Kanüle einzuführen"
           }
         },
         "es" : {
@@ -37506,8 +37512,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The time on your pump is different from the current time. Your pump’s time controls your scheduled therapy settings. Scroll down to Pump Time row to review the time difference and configure your pump."
+            "state" : "translated",
+            "value" : "Ora din pompă este diferită de ora curentă. Ora din pompa dumneavoastră controlează setările de terapie programate. Derulați în jos la rândul Ora din pompă pentru a revizui diferența de oră și a configura pompa dumneavoastră."
           }
         },
         "ru" : {
@@ -37549,7 +37555,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "The time on your pump is different from the current time. Your pump’s time controls your scheduled therapy settings. Scroll down to Pump Time row to review the time difference and configure your pump."
+            "value" : "您泵上的时间与当前时间不一致。胰岛素泵的时间用于控制您的计划治疗设置。请向下滚动至“泵时间”一行，查看时间差并配置您的胰岛素泵。"
           }
         }
       }
@@ -38745,8 +38751,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "U/hr"
+            "state" : "translated",
+            "value" : "U/oră"
           }
         },
         "ru" : {
@@ -39855,8 +39861,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unknown"
+            "state" : "translated",
+            "value" : "Necunoscut"
           }
         },
         "ru" : {
@@ -41362,8 +41368,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your Pod may still be delivering Insulin.\nRemove it from your body, then tap “Continue.“"
+            "state" : "translated",
+            "value" : "Este posibil ca pompa dumneavoastră să administreze în continuare insulină.\nÎnlăturați-o de pe corpul dumneavoastră, apoi atingeți \"Continuați\"."
           }
         },
         "ru" : {

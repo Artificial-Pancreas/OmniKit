@@ -1049,8 +1049,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Empty reservoir"
+            "state" : "translated",
+            "value" : "Rezervor gol"
           }
         },
         "ru" : {
